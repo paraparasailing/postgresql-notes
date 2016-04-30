@@ -7,3 +7,7 @@
 ### Git Info:
 
 * [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+### Command Line
+
+* [Learn Enough to be dangerous](https://www.learnenough.com/command-line-tutorial)
